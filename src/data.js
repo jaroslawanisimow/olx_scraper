@@ -1,4 +1,4 @@
-export default [
+module.exports = [
     {
         "name": "Fiat 126p jedyny taki. Niski przebieg(REZERWACJA)",
         "price": 6500,
