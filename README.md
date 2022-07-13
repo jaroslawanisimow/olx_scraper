@@ -7,12 +7,11 @@
 
 <- Cheerio Node.js library parser - In progress ->
 
-
 Cheerio library parser
 
-const cheerio = require('cheerio');
+    const cheerio = require('cheerio');
 
-async function main() {
+    async function main() {
 
     fetch('https://www.olx.pl/d/motoryzacja/samochody/fiat/').then(res => setTimeout(async () => {
     
@@ -40,9 +39,9 @@ async function main() {
         
     }, 5000));
     
-}
+    }
 
-main();
+    main();
 
 
 
