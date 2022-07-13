@@ -1,11 +1,11 @@
 # olx_scraper
 
-<- Browser JS snipper was using ->
+<- Injected JS snippet - Done ->
 
 ![image](https://user-images.githubusercontent.com/76183614/178600057-6462da45-fbdf-4f1b-ac3b-578e1abef263.png)
 
 
-<- Cheerio library parser in progress ->
+<- Cheerio Node.js library parser - In progress ->
 
 
 Cheerio library parser
